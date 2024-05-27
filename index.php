@@ -23,6 +23,3 @@ $ironman1 = new IronmanArmour(new TempestaMissili, new ArmaturaOlografica);
 $ironman2 = new IronmanArmour(new RaggioRepulsore, new ArmaturaOlografica);
 $ironman3 = new IronmanArmour(new TempestaMissili, new CampoDiForza);
 $ironman4 = new IronmanArmour(new RaggioRepulsore, new CampoDiForza);
-
-
-echo IronmanArmour::$counter;
